@@ -1,14 +1,12 @@
 # MuleSoft Design Center
-
 # What is / Description
-Design Center is a web-based development environment for designing, building, and testing APIs and integration flows.
+Design Center is a web-based environment for designing and documenting APIs. It includes tools like API Designer for creating API specifications (RAML or OAS) and publishing them to Anypoint Exchange.
 
 # Why / Use-case
+Create and edit API specifications using a visual or text editor
 
-Create API specifications (RAML/OAS)
+Use mocking service to quickly prototype and test APIs
 
-Design flows and perform data transformations (DataWeave)
+Share API designs with the team via Anypoint Exchange for collaboration
 
-Enable team collaboration and version control
-
-Quickly prototype and test integrations
+Manage versions of API specifications and fragments
