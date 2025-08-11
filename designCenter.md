@@ -1,9 +1,9 @@
-MuleSoft Design Center
+# MuleSoft Design Center
 
-What is / Description
+# What is / Description
 Design Center is a web-based development environment for designing, building, and testing APIs and integration flows.
 
-Why / Use-case
+# Why / Use-case
 
 Create API specifications (RAML/OAS)
 
